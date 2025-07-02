@@ -1,4 +1,4 @@
-# Semantic Spotter AI Project GenAI AI/ML Capstone
+# Semantic Spotter GenAI Project
 
 Simplifying insurance document queries with the power of Retrieval-Augmented Generation (RAG) and advanced embeddings with Llama-Index and OpenAI's GPT models.
 
